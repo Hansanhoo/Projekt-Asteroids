@@ -67,3 +67,6 @@ fabric.properties
 
 #Spiel
 asteroids_projekt/
+gym-asteroids/gym_asteroids.egg-info/
+gym-asteroids/gym_asteroids/__pycache__
+gym-asteroids/gym_asteroids/envs/__pycache__
