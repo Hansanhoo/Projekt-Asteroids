@@ -1,0 +1,5 @@
+gym_asteroids.egg-info/PKG-INFO
+gym_asteroids.egg-info/SOURCES.txt
+gym_asteroids.egg-info/dependency_links.txt
+gym_asteroids.egg-info/requires.txt
+gym_asteroids.egg-info/top_level.txt
